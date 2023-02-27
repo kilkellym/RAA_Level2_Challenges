@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_Level2_Challenges</Text>
+    <Description>Some description for RAA_Level2_Challenges</Description>
+    <Assembly>RAA_Level2_Challenges.dll</Assembly>
+    <FullClassName>RAA_Level2_Challenges.Command</FullClassName>
+    <ClientId>cecc3605-d211-4ba1-99b4-d844f0060811</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_Level2_Challenges</Name>
+    <Assembly>RAA_Level2_Challenges.dll</Assembly>
+    <FullClassName>RAA_Level2_Challenges.App</FullClassName>
+    <ClientId>14b07480-1f05-4e6b-9a3b-e47c96957b2d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
